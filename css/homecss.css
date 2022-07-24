@@ -1,0 +1,41 @@
+ body {
+   /* background-image: url("../images/forest.png");
+   background-repeat: no-repeat;
+   background-size: cover; */
+ }
+.table1 {
+  background-color:rgba(0, 0, 255, 0.2);
+}
+.table2{
+  background-color:rgba(255,0,0,0.2);
+}
+.table3{
+  background-color:rgba(0,255,0,0.2);
+}
+.td1 {
+  padding-right: 980px;
+}
+.td2{
+  padding-right: 910px;
+}
+.td3{
+  padding-right: 960px;
+}
+td{
+  color:rgb(255,255,255);
+}
+hr {
+  border: solid;
+  height:0px;
+  width: 50%;
+  /* border-top: dashed;
+  border-top-width: 8px; */
+  border-color: rgb(0,100,0);
+  border-radius: 25px;
+}
+/* h3 {
+  background-color: purple;
+  color: white;
+  border-color: black;
+  width: 50%; */
+}
